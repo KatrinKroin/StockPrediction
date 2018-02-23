@@ -1,0 +1,25 @@
+﻿<Window x:Class="RProject.StockViewender"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RProject"
+        mc:Ignorable="d"
+        Title="StockViewender" Height="500" Width="800">
+    <Grid>
+        <ListView x:Name="listView" HorizontalAlignment="Left" FontSize ="9.333" Height="424" Margin="10,0,0,0" VerticalAlignment="Top" Width="226" Loaded="Companies_Loaded" SelectionChanged="listView_Click" SelectedIndex="0">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Name" DisplayMemberBinding="{Binding Name}" Width="70"/>
+                    <GridViewColumn Header="Symbol" DisplayMemberBinding="{Binding Symbol}" Width="50"/>
+                    <GridViewColumn Header="Industry" DisplayMemberBinding="{Binding Industry}" Width="100"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button x:Name="B1" Content="Enter Cmpany" HorizontalAlignment="Left" Margin="124,429,0,0" VerticalAlignment="Top" Width="112" Height="30"/>
+        <Button x:Name="B2" Content="Search Company" HorizontalAlignment="Left" Margin="10,429,0,0" VerticalAlignment="Top" Width="109" Height="30" RenderTransformOrigin="-0.08,5"/>
+        <Grid Margin="236,0,10,0">
+            <Image x:Name="Graph"/>
+        </Grid>
+    </Grid>
+</Window>

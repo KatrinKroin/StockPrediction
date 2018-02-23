@@ -1,0 +1,66 @@
+C:\Users\Katri\Documents\R\RProject\RProject\bin\Debug\RProject.exe.config
+C:\Users\Katri\Documents\R\RProject\RProject\bin\Debug\RProject.exe
+C:\Users\Katri\Documents\R\RProject\RProject\bin\Debug\RProject.pdb
+C:\Users\Katri\Documents\R\RProject\RProject\bin\Debug\DynamicInterop.dll
+C:\Users\Katri\Documents\R\RProject\RProject\bin\Debug\RDotNet.dll
+C:\Users\Katri\Documents\R\RProject\RProject\bin\Debug\RDotNet.NativeLibrary.dll
+C:\Users\Katri\Documents\R\RProject\RProject\bin\Debug\DynamicInterop.xml
+C:\Users\Katri\Documents\R\RProject\RProject\bin\Debug\RDotNet.xml
+C:\Users\Katri\Documents\R\RProject\RProject\bin\Debug\RDotNet.NativeLibrary.xml
+C:\Users\Katri\Documents\R\RProject\RProject\obj\Debug\MainWindow.g.cs
+C:\Users\Katri\Documents\R\RProject\RProject\obj\Debug\App.g.cs
+C:\Users\Katri\Documents\R\RProject\RProject\obj\Debug\RProject_MarkupCompile.cache
+C:\Users\Katri\Documents\R\RProject\RProject\obj\Debug\RProject_MarkupCompile.lref
+C:\Users\Katri\Documents\R\RProject\RProject\obj\Debug\MainWindow.baml
+C:\Users\Katri\Documents\R\RProject\RProject\obj\Debug\RProject.g.resources
+C:\Users\Katri\Documents\R\RProject\RProject\obj\Debug\RProject.Properties.Resources.resources
+C:\Users\Katri\Documents\R\RProject\RProject\obj\Debug\RProject.csproj.GenerateResource.Cache
+C:\Users\Katri\Documents\R\RProject\RProject\obj\Debug\RProject.exe
+C:\Users\Katri\Documents\R\RProject\RProject\obj\Debug\RProject.pdb
+C:\Users\Katri\Documents\R\RProject\RProject\obj\Debug\Date.g.cs
+C:\Users\Katri\Documents\R\RProject\RProject\obj\Debug\Date.baml
+C:\Users\Katri\Documents\R\RProject\RProject\obj\Debug\Menu.g.cs
+C:\Users\Katri\Documents\R\RProject\RProject\obj\Debug\Menu.baml
+C:\Users\Katri\Documents\R\RProject\RProject\obj\Debug\EnterCompany.g.cs
+C:\Users\Katri\Documents\R\RProject\RProject\obj\Debug\EnterCompany.baml
+C:\Users\Katri\Documents\R\RProject\RProject\obj\Debug\StockViewender.g.cs
+C:\Users\Katri\Documents\R\RProject\RProject\obj\Debug\StockViewender.baml
+C:\Users\Katri\Documents\R\RProject\RProject\obj\Debug\Stock.g.cs
+C:\Users\Katri\Documents\R\RProject\RProject\obj\Debug\Stock.baml
+C:\Users\Katri\Documents\R\RProject\RProject\obj\Debug\App.baml
+C:\Users\Katri\Documents\R\RProject\RProject\obj\Debug\Style.baml
+C:\Users\Katri\Documents\R\RProject\RProject\obj\Debug\RProject.csprojResolveAssemblyReference.cache
+C:\Users\Katri\Documents\R\RProject\RProject\obj\Debug\BlackCrystal.baml
+C:\Users\Katri\Documents\Visual Studio 2015\Projects\R\RProject\RProject\bin\Debug\RProject.exe.config
+C:\Users\Katri\Documents\Visual Studio 2015\Projects\R\RProject\RProject\obj\Debug\RProject.exe
+C:\Users\Katri\Documents\Visual Studio 2015\Projects\R\RProject\RProject\obj\Debug\RProject.pdb
+C:\Users\Katri\Documents\Visual Studio 2015\Projects\R\RProject\RProject\bin\Debug\RProject.exe
+C:\Users\Katri\Documents\Visual Studio 2015\Projects\R\RProject\RProject\bin\Debug\RProject.pdb
+C:\Users\Katri\Documents\Visual Studio 2015\Projects\R\RProject\RProject\bin\Debug\DynamicInterop.dll
+C:\Users\Katri\Documents\Visual Studio 2015\Projects\R\RProject\RProject\bin\Debug\RDotNet.dll
+C:\Users\Katri\Documents\Visual Studio 2015\Projects\R\RProject\RProject\bin\Debug\RDotNet.NativeLibrary.dll
+C:\Users\Katri\Documents\Visual Studio 2015\Projects\R\RProject\RProject\bin\Debug\DynamicInterop.xml
+C:\Users\Katri\Documents\Visual Studio 2015\Projects\R\RProject\RProject\bin\Debug\RDotNet.xml
+C:\Users\Katri\Documents\Visual Studio 2015\Projects\R\RProject\RProject\bin\Debug\RDotNet.NativeLibrary.xml
+C:\Users\Katri\Documents\Visual Studio 2015\Projects\R\RProject\RProject\obj\Debug\RProject.csprojResolveAssemblyReference.cache
+C:\Users\Katri\Documents\Visual Studio 2015\Projects\R\RProject\RProject\obj\Debug\BlackCrystal.baml
+C:\Users\Katri\Documents\Visual Studio 2015\Projects\R\RProject\RProject\obj\Debug\Date.g.cs
+C:\Users\Katri\Documents\Visual Studio 2015\Projects\R\RProject\RProject\obj\Debug\EnterCompany.g.cs
+C:\Users\Katri\Documents\Visual Studio 2015\Projects\R\RProject\RProject\obj\Debug\MainWindow.g.cs
+C:\Users\Katri\Documents\Visual Studio 2015\Projects\R\RProject\RProject\obj\Debug\Menu.g.cs
+C:\Users\Katri\Documents\Visual Studio 2015\Projects\R\RProject\RProject\obj\Debug\Stock.g.cs
+C:\Users\Katri\Documents\Visual Studio 2015\Projects\R\RProject\RProject\obj\Debug\StockViewender.g.cs
+C:\Users\Katri\Documents\Visual Studio 2015\Projects\R\RProject\RProject\obj\Debug\App.g.cs
+C:\Users\Katri\Documents\Visual Studio 2015\Projects\R\RProject\RProject\obj\Debug\RProject_MarkupCompile.cache
+C:\Users\Katri\Documents\Visual Studio 2015\Projects\R\RProject\RProject\obj\Debug\RProject_MarkupCompile.lref
+C:\Users\Katri\Documents\Visual Studio 2015\Projects\R\RProject\RProject\obj\Debug\App.baml
+C:\Users\Katri\Documents\Visual Studio 2015\Projects\R\RProject\RProject\obj\Debug\Date.baml
+C:\Users\Katri\Documents\Visual Studio 2015\Projects\R\RProject\RProject\obj\Debug\EnterCompany.baml
+C:\Users\Katri\Documents\Visual Studio 2015\Projects\R\RProject\RProject\obj\Debug\MainWindow.baml
+C:\Users\Katri\Documents\Visual Studio 2015\Projects\R\RProject\RProject\obj\Debug\Menu.baml
+C:\Users\Katri\Documents\Visual Studio 2015\Projects\R\RProject\RProject\obj\Debug\Stock.baml
+C:\Users\Katri\Documents\Visual Studio 2015\Projects\R\RProject\RProject\obj\Debug\StockViewender.baml
+C:\Users\Katri\Documents\Visual Studio 2015\Projects\R\RProject\RProject\obj\Debug\Style.baml
+C:\Users\Katri\Documents\Visual Studio 2015\Projects\R\RProject\RProject\obj\Debug\RProject.g.resources
+C:\Users\Katri\Documents\Visual Studio 2015\Projects\R\RProject\RProject\obj\Debug\RProject.Properties.Resources.resources
+C:\Users\Katri\Documents\Visual Studio 2015\Projects\R\RProject\RProject\obj\Debug\RProject.csproj.GenerateResource.Cache
